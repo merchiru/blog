@@ -25,61 +25,61 @@ YOLO.
 - [README](README.md)
 - 碎
   - 2017
-    - [01 网站动态标题的两种方式](碎/2017/01-网站动态标题的两种方式.md)
+    - [01 xx](碎/2017/01-xx.md)
   - 2018
-    - [01 不一样の烟火](碎/2018/01-不一样の烟火.md)
+    - [01 xx](碎/2018/01-xx.md)
 
   - 2019
-    - [01 Aurora 食用指南](碎/2019/01-Aurora-食用指南.md)
+    - [01 xx](碎/2019/01-xx.md)
   - 2020
-    - [01 Telegram 电报机器人](碎/2020/01-Telegram-电报机器人.md)
+    - [01 xx](碎/2020/01-xx.md)
   - 2021
     - [01 春宵苦短 2020](碎/2021/01-春宵苦短-2020.md)
 - 技
   - JavaScript
-    - [01 JavaScript 秘密花园](技/JavaScript/01-JavaScript-秘密花园.md)
+    - [01 xx](技/JavaScript/01-xx.md)
   - CSS
-    - [01 Flex 弹性布局](技/CSS/01-Flex-弹性布局.md)
+    - [01 xx](技/CSS/01-xx.md)
   - Node
-    - [01 Node Tips](技/Node/01-Node-Tips.md)
+    - [01 xx](技/Node/01-xx.md)
   - Note
     - [01 Note](技/Note/01-Note.md)
   - React
-    - [01 React Props Children 传值](技/React/01-React-Props-Children-传值.md)
+    - [01 xx](技/React/01-xx.md)
   - Vue
-    - [01 Vue Tips](技/Vue/01-Vue-Tips.md)
+    - [01 xx](技/Vue/01-xx.md)
   - 实战系列
-    - [01 WebSocket 心跳重连机制](技/实战系列/01-WebSocket-心跳重连机制.md)
+    - [01 xx](技/实战系列/01-xx.md)
 - 念
   - Java
-    - [01 面向对象基本特征与原则](念/Java/01-面向对象基本特征与原则.md)
+    - [01 xx](念/Java/01-xx.md)
   - 并发编程
-    - [01 Java 并发](念/并发编程/01-Java-并发.md)
+    - [01 xx](念/并发编程/01-xx.md)
   - 高效编程
-    - [01 30 seconds of java8](念/高效编程/01-30-seconds-of-java8.md)
+    - [01 xx](念/高效编程/01-xx.md)
   - 理论概念
-    - [01 Java Servlet](念/理论概念/01-Java-Servlet.md)
+    - [01 xx](念/理论概念/01-xx.md)
   - 实战系列
-    - [01 AES CBC 加解密](念/实战系列/01-AES-CBC-加解密.md)
+    - [01 xx](念/实战系列/01-xx.md)
   - Spring
-    - [01 Spring Boot](念/Spring/01-Spring-Boot.md)
+    - [01 xx](念/Spring/01-xx.md)
   - MySQL
-    - [01 MySQL](念/MySQL/01-MySQL.md)
+    - [01 xx](念/MySQL/01-xx.md)
   - Nginx
-    - [01 Nginx 指北](念/Nginx/01-Nginx-指北.md)
+    - [01 xx](念/Nginx/01-xx.md)
   - Netty
-    - [01 BIO、NIO、AIO](念/Netty/01-BIO、NIO、AIO.md)
+    - [01 xx](念/Netty/01-xx.md)
   - Note
-    - [01 Note](念/Note/01-Note.md)
+    - [01 xx](念/Note/01-xx.md)
   - Linux
-    - [01 Linux 文件权限系统](念/Linux/01-Linux-文件权限系统.md)
+    - [01 xx](念/Linux/01-xx.md)
   - Project
-    - [01 微信点餐系统](念/Project/01-微信点餐系统.md)
+    - [01 xx](念/Project/01-xx.md)
 - 斋
   - ES6 标准入门
-    - [01 变量声明与解构赋值](斋/ES6-标准入门/01-变量声明与解构赋值.md)
+    - [01 xx](斋/ES6-标准入门/01-xx.md)
   - JavaScript 设计模式
-    - [01 基础知识](斋/JavaScript-设计模式/01-基础知识.md)
+    - [01 xx](斋/JavaScript-设计模式/01-xx.md)
 - 往
   - [Note](往/Note.md)
 - 藏
